@@ -1,0 +1,6 @@
+{
+  "name": "BobaCult Premium Bubble Tea",
+  "description": "Official website for BobaCult Premium Bubble Tea in Koswatte, Sri Lanka. Bold flavor, cult status bubble tea, fruit milks, iced teas, and cream foam drinks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
